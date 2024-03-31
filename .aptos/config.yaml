@@ -1,0 +1,8 @@
+---
+profiles:
+  AGDEX:
+    private_key: "0x8f35f21f39b245d3e1efa3cc5cc1299adba38512e11b1f5138a935e58bb0be0b"
+    public_key: "0x7f154dce1970d69273a71c56dddfad5f74b23c4fe8f8690bfa7a1777abf205ec"
+    account: 910569d28116b8b6d1e538925dd290c73b300171a4ed53b8c009b6acaa5997a3
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
